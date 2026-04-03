@@ -68,9 +68,9 @@ Professional **video editing** and **motion graphics** for brand storytelling an
 
 ## 📫 Get in Touch
 
-💌 **Email**: [hello@ctrlbits.xyz](mailto:hello@ctrlbits.xyz)  
-🌐 **Website**: [www.ctrlbits.xyz](https://www.ctrlbits.xyz)  
-📸 **Instagram**: [@ctrl_bits](https://www.instagram.com/ctrl_bits)  
+💌 **Email**: [hello@ctrlbits.com](mailto:hello@ctrlbits.com)  
+🌐 **Website**: [www.ctrlbits.com](https://www.ctrlbits.com)  
+📸 **Instagram**: [@ctrl_bits](https://www.instagram.com/ctrl.bits)  
 🐙 **GitHub**: [github.com/ctrlbits](https://github.com/ctrlbits)
 
 ---
