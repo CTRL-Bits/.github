@@ -1,88 +1,148 @@
 <h1 align="center">
-  <img src="https://avatars.githubusercontent.com/u/209805194?v=4" width="40" />
+  <img src="https://avatars.githubusercontent.com/u/209805194?v=4" width="42" />
   CtrlBits
 </h1>
 
 <p align="center">
-  🚀 Crafting Code. Designing Ideas. Delivering Impact.
+  <b>Building Scalable Digital Products & Systems</b><br/>
+  From idea → execution → growth
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based%20in-Nepal-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web%20Apps-✔️-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/UI%2FUX%20Design-✔️-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Video%20Editing-✔️-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud%20Solutions-✔️-cyan?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Nepal-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Clients-Global-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Products%20%26%20Systems-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-Full%20Stack-orange?style=flat-square" />
 </p>
 
 ---
 
-## 🧠 Who We Are
+## 🧠 About CtrlBits
 
-**CtrlBits** is a Nepal-based IT solutions company focused on delivering tailor-made digital products. From elegant websites to complex backend systems, we bring your vision to life using modern tools and creative thinking.
+**CtrlBits** is a product-driven IT company focused on building **high-performance web platforms, SaaS systems, and business automation tools**.
 
-We don’t just build software — we build **experiences**.
+We operate at the intersection of:
+- ⚙️ Engineering precision  
+- 🎯 Business logic  
+- 🎨 User experience  
 
----
-
-## 🛠️ What We Do
-
-### 💻 Web Development
-Responsive, fast, and SEO-ready websites using **React**, **Next.js**, **Vite**, and **Django**.
-
-### 🎨 UI/UX & Branding
-We blend function and form through thoughtful UI/UX design, wireframing, and branding strategies.
-
-### 🧰 Automation & DevOps
-Streamlining your business with **custom dashboards**, workflow automation, and cloud deployments.
-
-### 📊 Analytics & Dashboards
-Real-time insights, tailored KPIs, and system health tracking — all visualized for action.
-
-### 📹 Creative Media
-Professional **video editing** and **motion graphics** for brand storytelling and marketing.
+We don’t just ship features — we design **systems that scale**.
 
 ---
 
-🧩 Tech Stack
-💻 Frontend
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css,sass" height="40" /> </p>
-🔧 Backend
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase,redis,supabase" height="40" /> </p>
-⚙️ DevOps & Hosting
-<p align="left"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,vercel,gitlab" height="40" /> </p>
-🛠 Tools & Platforms
-<p align="left"> <img src="https://skillicons.dev/icons?i=figma,vscode,webpack,vite,postman,npm,ae,pr,ai,ps" height="40" /> </p>
+## 🚀 What We Actually Do
+
+### 🧩 Product Development
+End-to-end development of platforms, SaaS tools, and internal systems  
+→ MVP → Scale → Optimize
+
+### 💻 Web & App Engineering
+Fast, SEO-optimized, and production-ready applications  
+→ **Next.js, React, Django, Node**
+
+### 📊 Dashboards & Admin Systems
+Custom dashboards with:
+- Real-time analytics  
+- User tracking  
+- Operational insights  
+
+### ⚙️ Automation & Internal Tools
+Reduce manual work with:
+- Workflow automation  
+- Business logic systems  
+- Integrations (payments, APIs, CRMs)
+
+### 🎨 UI/UX That Converts
+Not just pretty — **conversion-focused design**
+- Wireframes → Systems → Interfaces  
+- Clean, scalable design systems  
+
+### 📹 Creative & Content Systems
+- Video editing  
+- Motion graphics  
+- Performance-driven social content  
+
 ---
 
-## ✨ Featured Projects
+## 🧠 How We Think
 
-| Project | Description |
-|--------|-------------|
-| **BuyNothingNepal** | A zero-waste e-commerce platform to gift or exchange items freely. |
-| **Nostalgia Box** | A group time capsule app using React + Django. |
-| **Hisaab+** | Expense-sharing app with QR code-based pairing. |
-| **IMS for Nepal** | Inventory system with Nepali calendar & VAT billing support. |
+> Build simple systems that handle complex problems.
 
----
-
-## 📫 Get in Touch
-
-💌 **Email**: [hello@ctrlbits.xyz](mailto:hello@ctrlbits.xyz)  
-🌐 **Website**: [www.ctrlbits.xyz](https://www.ctrlbits.xyz)  
-📸 **Instagram**: [@ctrl_bits](https://www.instagram.com/ctrl_bits)  
-🐙 **GitHub**: [github.com/ctrlbits](https://github.com/ctrlbits)
+- No unnecessary complexity  
+- Performance-first approach  
+- Clean architecture  
+- Long-term scalability over short-term hacks  
 
 ---
 
-## 🙌 Let’s Build the Future Together
+## 🛠 Tech Stack
 
-> “Technology should simplify life, not complicate it. We build tools that empower.”
+### 💻 Frontend
 
-If you're a startup, brand, or creator looking to level up — **let's talk**.
+React • Next.js • TypeScript • Tailwind • Vite
+
+### 🔧 Backend
+
+Django • Node.js • Express • PostgreSQL • MongoDB • Redis
+
+### ⚙️ DevOps & Infra
+
+Docker • Kubernetes • Vercel • CI/CD • Cloud Deployments
+
+### 🧰 Tools
+
+Figma • Postman • GitHub • VS Code • Adobe Suite
+
+---
+
+## 📦 What We're Building
+
+We are actively working on:
+- ⚡ Digital profile / portfolio systems  
+- 📊 Business dashboards & analytics tools  
+- 🔗 Link-in-bio + tracking platforms  
+- 🧾 Internal automation systems for businesses  
+
+---
+
+## 🌍 Who We Work With
+
+- Startups building their first product  
+- Businesses digitizing operations  
+- Creators building personal platforms  
+- Teams needing scalable internal tools  
+
+---
+
+## 📈 Why CtrlBits
+
+- Fast execution without compromising quality  
+- Strong system design (not just UI work)  
+- Business-focused development approach  
+- Clean, maintainable codebase  
+
+---
+
+## 📫 Contact
+
+📧 hello@ctrlbits.com  
+🌐 https://www.ctrlbits.com  
+📸 https://instagram.com/ctrl.bits  
+🐙 https://github.com/ctrlbits  
+
+---
+
+## 🤝 Let’s Build Something Real
+
+If you're serious about building:
+- A product  
+- A system  
+- Or scaling your current tech  
+
+**We should talk.**
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=440&lines=We+build+tech+that+makes+life+easier;We+craft+code+with+clarity;We+are+CtrlBits" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=500&lines=We+build+systems+that+scale;From+idea+to+execution;CtrlBits+Engineering+Digital+Products" />
 </p>
